@@ -9,3 +9,5 @@
 #potential datasets for testing
 #https://iplab.dmi.unict.it/deepfakechallenge/#importantdates
 #https://huggingface.co/datasets/elsaEU/ELSA_D3
+
+#dataset i used to test the first model is - #https://iplab.dmi.unict.it/deepfakechallenge/#importantdates - the test task 2 and then the labels
